@@ -9,6 +9,8 @@ gem 'bootstrap-will_paginate', '0.0.5'
 gem 'jquery-rails', '2.1.4'
 
 
+
+
 group :development, :test do
   gem 'sqlite3', '1.3.5'
   gem 'rspec-rails', '2.11.0'
